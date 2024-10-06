@@ -129,7 +129,7 @@ https://www.freehaven.net/anonbib/cache/mixmaster-spec.txt (Internet-Draft - Ulf
 
 Before we move on to our main identity, specifically before discussing the second death, I would like to talk about the first death.
 
-- Janis Jagars aka Disastry
+- Janis Jagars aka Disastry --2002
 - disastry@saiknes.lv
 <p align="center">
   <img src="BTC/YAGEDOPEWHRUJPOTD.jpg" width="">
