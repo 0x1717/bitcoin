@@ -369,7 +369,7 @@ The problem is that Satoshi Nakamoto signed and embedded a quote from a newspape
   <img src="BTC/OUYYEIKZAUAPRIRNB.png" width="">
 </p>
 
-- Second Photo: On April 19, 2007, Satoshi Nakamoto posts a photo he took with his own hand on his blog
+- Second Photo: On April 19, 2007, Len Sassaman posts a photo he took with his own hand on his blog
 - *(Newspaper: Financial Times - UK)*
 <p align="center">
   <img src="BTC/OAEVJLKFNWYXBCBEP.jpeg" width="">
