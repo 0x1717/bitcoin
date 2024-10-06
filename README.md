@@ -466,8 +466,8 @@ Notes:
 
 ,Regards
 
-Nickname: 0x1717 aka 0xGyg3s
-Contact: 1717@duck.com
+- Nickname: 0x1717 aka 0xGyg3s
+- Contact: 1717@duck.com
 
 Donate:
 
