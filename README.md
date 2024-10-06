@@ -1,5 +1,9 @@
 # A Project with 4 Deaths: Bitcoin and Satoshi Nakamoto
 
+<p align="center">
+  <img src="BTC/FAHBLJTXREDBXIBPX.png" width="200">
+</p>
+
 ## Disclaimer:
 First and foremost, I owe the information presented here to the research I conducted in January 2023. The results of my research go beyond mere theory. The reason for this is that the research was not carried out by an ordinary individual, but by a hacker. For nearly 10 years, I have been deeply involved in software, hacking, cryptology, and privacy. I apologize for the delay in writing this article. With that said, let’s begin.
 
@@ -9,38 +13,62 @@ First and foremost, I owe the information presented here to the research I condu
 
 If we are to undertake this task, it is clear that precise calculations and logical conclusions will be necessary. Therefore, I will begin by explaining in simple terms and using examples to guide the discussion. This explanation will serve as an initial approach to understanding who the person behind the nickname "Satoshi Nakamoto" might be, or how we can go about finding him.
 
+<p align="center">
+  <img src="BTC/XDUKECBWUWDOHTUGN.png" width="">
+</p>
+
 - Satoshi Nakamoto couldn’t have been born in 2024 or 2010, as it would be illogical for someone born in those years to have published a white paper on October 31, 2008. See how we’ve already used logical reasoning to narrow the scope of our investigation and move closer to the target?
 
 Much like the syllogism:
-- "(1) All humans are mortal. (2) Socrates is mortal. Conclusion: Socrates is human."
+- **"(1) All humans are mortal. (2) Socrates is mortal. Conclusion: Socrates is human."**
+
+<p align="center">
+  <img src="BTC/WVQCVIKESALMWNBIH.png" width="">
+</p>
 
 I ask that you evaluate all the information you are about to learn within this same framework of logical reasoning.
 
 ---
 
-When I began my research in 2023, the first place I looked was the bitcoin.pdf file. The reason I focused on this PDF was not its content, but whether the metadata contained information that would be significant to me. So, what is metadata?
+When I began my research in 2023, the first place I looked was the **bitcoin.pdf** file. The reason I focused on this PDF was not its content, but whether the **metadata** contained information that would be significant to me. So, what is metadata?
 
-Metadata refers to data about a digital file—whether it’s an image or a text document—rather than the content itself. It provides information about the file, not the object it represents. For example, take a look at the image below: on the left is the cat, and on the right are details about the cat. Similarly, the first thing I examined in relation to Bitcoin was the metadata of its white paper PDF. Upon reviewing this metadata, four details caught my attention, which I will now explain in order.
+**Metadata** refers to data about a digital file—whether it’s an image or a text document—rather than the content itself. It provides information about the file, not the object it represents. For example, take a look at the image below: on the left is the cat, and on the right are details about the cat. Similarly, the first thing I examined in relation to Bitcoin was the metadata of its white paper PDF. Upon reviewing this metadata, four details caught my attention, which I will now explain in order.
 
-- The keyboard language used by the person who created this PDF is "en-GB."
+<p align="center">
+  <img src="BTC/ZFJWWVVPQRJOPZBFP.png" width="">
+</p>
 
-- They are using Apache OpenOffice! The reason for not using Microsoft Office may be that Satoshi could have been utilizing macOS or GNU/Linux instead of the Windows operating system while writing the white paper. Of course, this is merely a theory.
+---
 
-- The time zone is "GMT-6." Cities in the GMT-6 time zone include: Chicago, Dallas, El Paso, Fort Worth, Guatemala, Houston, Indiana [West], Manitoba, Memphis, New Orleans, Mexico City, Ontario N.W., San Antonio, Texas, Saskatchewan East, St. Louis, and Winnipeg. (GMT-6) Central Standard Time.
+The metadata information contained in **bitcoin.pdf** is as follows:
+
+<p align="center">
+  <img src="BTC/JFXOYHQGIALDJEFNQ.png" width="">
+</p>
+
+- The keyboard language used by the person who created this PDF is **"en-GB."**
+
+- They are using **Apache OpenOffice**! The reason for not using Microsoft Office may be that Satoshi could have been utilizing **macOS or GNU/Linux** instead of the Windows operating system while writing the white paper. Of course, this is merely a theory.
+
+- The time zone is **"GMT-6."** Cities in the GMT-6 time zone include: Chicago, Dallas, El Paso, Fort Worth, Guatemala, Houston, Indiana [West], Manitoba, Memphis, New Orleans, Mexico City, Ontario N.W., San Antonio, Texas, Saskatchewan East, St. Louis, and Winnipeg. (GMT-6) Central Standard Time.
+
+<p align="center">
+  <img src="BTC/SLCHQVQIOLCHISERC.png" width="">
+</p>
 
 Having discussed three steps, let’s now address the fourth step, which is the most critical point.
 
-- "Create Date: 2009:03:24 11:33:15-06:00"
+- "Create Date: **2009:03:24** 11:33:15-06:00"
 
-- The Bitcoin white paper is the original thesis written under the pseudonym Satoshi Nakamoto on "October 31, 2008," which established the foundational structure of the Bitcoin network.
+- The Bitcoin white paper is the original thesis written under the pseudonym Satoshi Nakamoto on **"October 31, 2008,"** which established the foundational structure of the Bitcoin network.
 
-Although Bitcoin was published on August 31, 2008, the create date appears to have changed for some reason. (If anyone finds the original PDF, please email me.)
+Although Bitcoin was published on **August 31, 2008**, the create date appears to have changed for some reason. (If anyone finds the original PDF, please email me.)
 
 Note: Whether Satoshi intentionally altered this date or if it was simply a minor issue remains to be determined. This is something we can investigate further in detail later.
 
 ---
 
-After examining the PDF, the second detail that caught my attention was Satoshi's email address and the fact that he uses "PGP" (Pretty Good Privacy): "satoshin@gmx.com". The fact that he uses PGP created a sense of camaraderie, as if I could consider him a colleague. Was he simply trying to conceal his identity, or was he already a hacker?
+After examining the PDF, the second detail that caught my attention was Satoshi's email address and the fact that he uses **"PGP" (Pretty Good Privacy)**: "satoshin@gmx.com". The fact that he uses PGP created a sense of camaraderie, as if I could consider him a colleague. Was he simply trying to conceal his identity, or was he already a **hacker**?
 
 Alright, let's move on to the list of possible identities and continue with our discussion.
 
@@ -50,6 +78,9 @@ Alright, let's move on to the list of possible identities and continue with our 
 
 - Hal Finney (Harold Thomas Finney II) 1956-2014
 - hal.finney@gmail.com
+<p align="center">
+  <img src="BTC/MYRVGNDQSFAXEGYTF.jpg" width="">
+</p>
 
 I don't want to provide an extensive explanation regarding the potential identities, as there are many candidates, and most of them don't even fit within my logical framework. I only want to discuss why Hal Finney is not a possible identity.
 
@@ -73,10 +104,16 @@ It is indeed a sad situation that Hal Finney passed away in 2014 due to ALS. How
 
 Now, let's move on to the third death.
 
-It is quite absurd that there is no mention of Ulf Möller, who was referenced in so many PDFs and email archives and made significant contributions to the cypherpunk community, especially considering he was murdered in 2012. Ulf is not a potential identity, but rest assured, he is a more logical identity than many others.
+---
 
 - Ulf Möller or Ulf Moeller 1972–2012
 - 3umoelle@informatik.uni-hamburg.de - mail@ulfm.de
+<p align="center">
+  <img src="BTC/OYTOWLPEHFNFZJMUA.jpg" width="">
+</p>
+
+It is quite absurd that there is no mention of Ulf Möller, who was referenced in so many PDFs and email archives and made significant contributions to the cypherpunk community, especially considering he was murdered in 2012. Ulf is not a potential identity, but rest assured, he is a more logical identity than many others.
+
 
 ```
 http://www.ulfm.de/
@@ -88,12 +125,15 @@ https://www.obscura.com/journal/2012/1/17/ulf-moller-found-murdered.html
 https://www.freehaven.net/anonbib/cache/mixmaster-spec.txt (Internet-Draft - Ulf Moeller Expires: December 31, 2003)
 ```
 
+---
+
 Before we move on to our main identity, specifically before discussing the second death, I would like to talk about the first death.
 
-```
 - Janis Jagars aka (Disastry)
 - disastry@saiknes.lv
-```
+<p align="center">
+  <img src="BTC/YAGEDOPEWHRUJPOTD.jpg" width="">
+</p>
 
 Janis Jagars was a friend of Len Sassaman, the individual we will discuss shortly, and you can read the piece Len wrote after Janis's passing.
 
@@ -194,6 +234,8 @@ On 31 October 2008, a link to a white paper authored by Satoshi Nakamoto titled 
 Source: https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
 ```
 
+#### Is October 31 a coincidence?
+
 ---
 
 ## Yes, the time has come to talk about the real Satoshi Nakamoto.
@@ -201,6 +243,13 @@ Source: https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
 - Leonard Harris Sassaman (aka rabbi) 1980-2011
 - rabbi@quickie.net - lsassama@thehill.org - len.sassaman@esat.kuleuven.be - rabbi@abditum.com
 - AIM: Elom777 - ICQ: 10735603
+<p align="center">
+  <img src="BTC/JDTPKNQBTKQNQUNJJ.jpg" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/CHZWZUKTBUEWCDBRV.jpg" width="">
+</p>
 
 I don't want to go into detail about Len Sassaman's interests, so you can learn about them from the links below:
 
@@ -228,6 +277,10 @@ I do want to mention that the people Len Sassaman was connected with are also we
 - Nick Mathewson
 
 Among those listed are Len's friends, spouse, and mentors, all of whom are truly one of a kind. However, there is one person who particularly catches my attention, and that is Sergey Bratus.
+
+<p align="center">
+  <img src="BTC/XANBBAYFGIIXVUXME.jpg" width="">
+</p>
 
 ### Sergey Bratus LinkedIn:
 ```
@@ -297,13 +350,29 @@ While browsing through Len Sassaman's social media account, I came across a phot
 
 The photo below is dated April 19, 2007, and Len Sassaman shared it on his social media account after taking a picture of a newspaper.
 
+<p align="center">
+  <img src="BTC/YEQIOTXFECLZEFQFU.png" width="">
+</p>
+
+```
+https://panoptishard.livejournal.com/2007/04/19/
+https://farm1.static.flickr.com/192/465754847_1e3299a0bf.jpg
+```
+
+
 The problem is that Satoshi Nakamoto signed and embedded a quote from a newspaper into the Genesis Block.
 
 - First Photo: On January 3, 2009, Satoshi Nakamoto mined the #Bitcoin📷 Genesis Block ⛏️
 - *(Newspaper: The Times - UK)*
+<p align="center">
+  <img src="BTC/OUYYEIKZAUAPRIRNB.png" width="">
+</p>
 
 - Second Photo: On April 19, 2007, Satoshi Nakamoto posts a photo he took with his own hand on his blog
 - *(Newspaper: Financial Times - UK)*
+<p align="center">
+  <img src="BTC/OAEVJLKFNWYXBCBEP.jpeg" width="">
+</p>
 
 ```
 I actually shared this last year. (https://x.com/0xGyg3s/status/1670797381024055299)
@@ -313,19 +382,66 @@ I actually shared this last year. (https://x.com/0xGyg3s/status/1670797381024055
 
 # Let’s move on to the second piece of evidence:
 
-- While researching the email address of **Disastry**, also known as Janis Jagars, I noticed something interesting. Within the source code of a website called Senshi, Disastry's email address was written as a comment. This comment is not visible on the page but appears when you press **Ctrl + U**.
+- While researching the email address of **Disastry**, also known as Janis Jagars, I noticed something interesting. Within the source code of a website called **Senshi**, Disastry's email address was written as a comment. This comment is not visible on the page but appears when you press **Ctrl + U**.
 
 - The name **Senshi** immediately reminded me of **Satoshi**, which caught my attention significantly.
 
+<p align="center">
+  <img src="BTC/DTXLIYTSYEOGZNIXA.png" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/GGDGBIKKQFQCMQJMC.png" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/TXBSECOGUIBSKTGQZ.png" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/SYGSKQGSUIEXWMVDW.png" width="">
+</p>
+
+- The most widely used version throughout the 2000's was HTML 4.01, which became an official standard in December 1999. (Note: This HTML version dates back to the years 1999-2000, and it hasn’t been updated since. Yes, this website has been live for 20-25 years. I can understand this because my first website, which I launched in 2014, has been up for 10 years and will remain so. This is due to it being managed by an intermediary company, and it doesn’t depend on the person who originally created it.)
+
+- Just like Satoshi, Senshi also uses GMX as an email service. This similarity further adds to the intrigue surrounding the connection between Senshi and Satoshi.
+
 - As I delved deeper into **Senshi**, I realized that it could potentially be either **Len Sassaman or Janis Jagars**. I focused my research in this direction. While I am convinced that **Satoshi** is definitely **Len Sassaman**, the true owner of the name **Senshi** remains uncertain for me. However, I identified another finding that suggests Senshi could possibly be **Janis Jagars**.
 
-In this finding, when I asked ChatGPT about the following, it provided me with the response:
+<p align="center">
+  <img src="BTC/UWFSTLYYEEVVOXOVS.png" width="">
+</p>
+
+- Disastry encounters a bug related to encryption and shares it on the mailing list. During this exchange, content connected to Senshi surfaces, drawing our attention.
+
+- In this finding, when I asked ChatGPT about the following, it provided me with the response:
+
+<p align="center">
+  <img src="BTC/ADBYWCROGNWBGCOKB.png" width="">
+</p>
+<p align="center">
+  <img src="BTC/NXEORIQLSTOEQMNYO.png" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/QDSCYRQJDXPREXVDQ.png" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/ZZHJNREJOSDNCFGTK.png" width="">
+</p>
 
 - When we examine the sources below, we can see the individuals who contributed to Mixmaster. Interestingly, on the contribution list, Len Sassaman and Senshi-Admin are listed one after the other.
+
+
 
 ```
 https://sources.debian.org/src/mixmaster/3.0b2-4.etch1/THANKS/
 ```
+
+<p align="center">
+  <img src="BTC/YXMPLYXLZAUJLKERO.png" width="">
+</p>
 
 Additionally, here are other sources:
 
@@ -333,6 +449,14 @@ Additionally, here are other sources:
 https://sources.debian.org/src/mixmaster/3.0b2-4.etch1/HISTORY/
 https://github.com/crooks/mixmaster/blob/master/Mix/HISTORY
 ```
+
+<p align="center">
+  <img src="BTC/KYNLQXHMRQLDGXQEM.png" width="">
+</p>
+
+<p align="center">
+  <img src="BTC/YNPUNYDDNNYDIGVKA.png" width="">
+</p>
 
 ---
 
