@@ -472,10 +472,10 @@ Notes:
 
 Donate:
 
-Metamask: 0x95D2BBD6E533E8B201Cd13b7fBcB907C091AfB8A
-USDT: Avax C Chain: 0x059f584f67a6796b2a1a72369f17a4c11143dfb6
-USDT: Solana: 8ChWt4bCiCXBku93UuWxmfMN4unkzUaCQrMbWirjR7wF
-Bitcoin: 1PTawkVNetANYfRkneBmewiaHv35gedKee
+- Metamask: 0x95D2BBD6E533E8B201Cd13b7fBcB907C091AfB8A
+- USDT: Avax C Chain: 0x059f584f67a6796b2a1a72369f17a4c11143dfb6
+- USDT: Solana: 8ChWt4bCiCXBku93UuWxmfMN4unkzUaCQrMbWirjR7wF
+- Bitcoin: 1PTawkVNetANYfRkneBmewiaHv35gedKee
 
 # TO BE CONTINUED
 
