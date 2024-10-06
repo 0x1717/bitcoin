@@ -382,7 +382,7 @@ I actually shared this last year. (https://x.com/0xGyg3s/status/1670797381024055
 
 # Let’s move on to the second piece of evidence:
 
-- While researching the email address of **Disastry**, also known as Janis Jagars, I noticed something interesting. Within the source code of a website called **Senshi**, Disastry's email address was written as a comment. This comment is not visible on the page but appears when you press **Ctrl + U**.
+- While researching the email address of **Disastry**, also known as Janis Jagars, I noticed something interesting. Within the source code of a website called **Senshi**, Disastry's email address was written as a comment. This comment is not visible on the page but appears when you press **Ctrl + U**. This is what we call an **HTML comment**.
 
 - The name **Senshi** immediately reminded me of **Satoshi**, which caught my attention significantly.
 
