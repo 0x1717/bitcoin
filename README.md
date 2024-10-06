@@ -221,6 +221,7 @@ http://www.spywarewarrior.com/uiuc/disastry/obit.txt
 https://www.gamers.org/pub/idgames2/utils/level_edit/converters/bsp2map.txt
 https://groups.google.com/g/comp.os.linux.misc/c/0ItwknxKHn8
 https://www.doomworld.com/idgames/levels/doom/p-r/quatro
+https://www.danisch.de/blog/2015/07/04/das-geheimdienstprojekt-google/
 ```
 
 ---
@@ -474,3 +475,9 @@ Donate:
 Metamask: 0x95D2BBD6E533E8B201Cd13b7fBcB907C091AfB8A
 
 # TO BE CONTINUED
+
+---
+
+# Source:
+
+
